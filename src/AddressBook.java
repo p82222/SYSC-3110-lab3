@@ -27,5 +27,7 @@ public class AddressBook {
         System.out.println("Address Book");
         
         System.out.println("This is to test lab3 edit online");
+
+        System.out.println("This is to test lab3 new branch");
     }
 }
